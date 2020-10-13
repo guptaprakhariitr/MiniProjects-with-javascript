@@ -1,5 +1,7 @@
 # Mini Projects using in javascript
- 
+# Blog Link 
+https://medium.com/the-techie-trio/p5-js-a-creative-js-library-7ccd838bce6a
+
 *Flappy Bird*
 
 <img src="./flappy.gif">
